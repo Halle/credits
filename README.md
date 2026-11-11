@@ -1,6 +1,6 @@
 # My Apple Security Credits
 
-Security credits I have received from Apple, newest finding first, one row per entry in Apple's security release notes. A finding that was fixed in several releases appears once for each release. Each release name links to the Apple note containing the credit.
+Security credits I have received from Apple in reverse chronological order. A finding that was fixed in several releases appears once for each release.
 
 | # | Release | Date | Component | CVE | Note |
 |---|---|---|---|---|---|
