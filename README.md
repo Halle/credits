@@ -4,7 +4,7 @@ Security credits I have received from Apple, newest finding first, one row per e
 
 | # | Release | Date | Component | CVE | Note |
 |---|---|---|---|---|---|
-| 18 | [macOS Sequoia 15.4](https://support.apple.com/en-us/122373) | 2025-03-31 | Share Sheet | CVE-2025-30438 | A malicious sandboxed app without capabilities or permission grants in combination with a lock screen bug could result in a dismissed lock screen notification that a screen recording with microphone (this could include a continuity camera microphone) had been started on the locked device by someone with physical access but no credentials, with the exploit also demonstrating recording exfiltration and track-covering at user unlock time. |
+| 18 | [macOS Sequoia 15.4](https://support.apple.com/en-us/122373) | 2025-03-31 | Share Sheet | CVE-2025-30438 | A malicious sandboxed app without capabilities or permission grants in combination with a lock screen bug could result in a dismissed lock screen notification that a screen recording with microphone (this could include a continuity camera microphone) had been started on the locked device, including for recordings started by someone with physical access but no credentials, with the exploit also demonstrating automatic recording exfiltration and track-covering at user unlock time. |
 | 17 | [iOS 18.4 and iPadOS 18.4](https://support.apple.com/en-us/122371) | 2025-03-31 | Share Sheet | CVE-2025-30438 | Same finding as #18, fixed in iOS and iPadOS. |
 | 16 | [tvOS 18.4](https://support.apple.com/en-us/122377) | 2025-03-31 | Share Sheet | CVE-2025-30438 | Same finding as #18, fixed in tvOS. |
 | 15 | [visionOS 2.4](https://support.apple.com/en-us/122378) | 2025-03-31 | Share Sheet | CVE-2025-30438 | Same finding as #18, fixed in visionOS. |
