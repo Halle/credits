@@ -22,5 +22,3 @@ Security credits I have received from Apple, newest finding first, one row per e
 | 3 | [macOS Sonoma 14](https://support.apple.com/en-us/120950) | 2023-09-26 | CoreMedia | CVE-2023-41994 | A camera extension could see the camera view of apps it had not been granted permission for. The exploit chain demonstrated persistence, arbitrary starting and stopping, a strategy for reducing the noticeability of the camera indicator, a simple command-and-control demonstration including switching continuity camera views, and exfiltration without a granted networking capability. |
 | 2 | [macOS Ventura 13](https://support.apple.com/en-us/102853) | 2022-10-24 | CoreMedia | CVE-2022-42838 | A camera extension could keep receiving video after the app that activated it had closed. |
 | 1 | [macOS Monterey 12.1](https://support.apple.com/en-us/102874) | 2021-12-13 | Security | none | Acknowledgement under "Additional recognition". |
-
-Totals: 18 credited entries covering 7 CVEs and 1 acknowledgement.
