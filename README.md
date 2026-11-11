@@ -1,4 +1,4 @@
-# My Apple Security Credits
+# My Apple Security Releases Credits
 
 Security credits I have received from Apple in reverse chronological order. A finding that was fixed in several releases appears once for each release.
 
